@@ -23,16 +23,21 @@ through a single interface.
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="30%">
       <img width="1600" height="717" alt="1000125041" src="https://github.com/user-attachments/assets/33fddcff-3b7d-4287-948f-79fc0929742a" alt="Home page screenshot placeholder" width="100%" />
       <p align="center"><sub>Home Page </sub></p>
     </td>
-    <td width="50%">
+    <td width="30%">
+      <img width="1600" height="715" alt="1000103627" src="https://github.com/user-attachments/assets/adb3c7ca-cddf-4784-9aba-9d5eaa94510e" />
+      <p align="center"><sub>Live Detection </sub></p>
+    </td>
+    <td width="30%">
       <img width="1600" height="750" alt="1000103624" src="https://github.com/user-attachments/assets/e3e0b2f6-33dd-47c0-8f5f-d2952181b0b9" />
       <p align="center"><sub> Word-to-Sign </sub></p>
     </td>
   </tr>
 </table>
+
 
 
 ## Architecture
